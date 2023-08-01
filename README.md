@@ -42,7 +42,7 @@ Check out my projects that I created during my studies and solutions to test tas
 <p align="left">
   <a href="t.me/zhelezzyaka" target="_blank" rel="noreferrer"> <img src='https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg' alt='telegram' height='40'/> </a> 
   <a href="https://vk.com/zhelezzyaka" target="_blank" rel="noreferrer"> <img src='https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg' alt='vk' height='40'/> </a>
-  <a href="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"> <img src='https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png' alt='discord' width='40' height='40'/> </a>
+  <a href="https://discordapp.com/users/538429511042334735/"> <img src='https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png' alt='discord' width='40' height='40'/> </a>
 </p>
 
 ---
