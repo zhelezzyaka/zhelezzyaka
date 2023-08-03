@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Pavel 👋</h1>
 <h3 align="center">Python Data Scientist/Data Analyst</h3>
 
-I like to write in Python. <br>
+I like Python and other lifeforms. <br>
 I recently completed a retraining course in Data Science. <br>
 Check out my projects that I created during my studies and solutions to test tasks. <br>
 
