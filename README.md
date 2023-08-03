@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 I like Python and other lifeforms. <br>
 I recently completed a retraining course in Data Science. <br>
-Check out my projects that I created during my studies and solutions to test tasks. <br>
+Check out my projects that I created during my studies and test tasks solutions. <br>
 
 - 🌱 I’m currently learning **machine learning and analytics**
 - 📫 How to reach me zhelznovpv@gmail.com
